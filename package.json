@@ -33,6 +33,6 @@
   "engines": [],
   "englishdoc": "",
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
